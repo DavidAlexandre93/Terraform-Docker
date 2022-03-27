@@ -1,0 +1,3 @@
+terraform import recurso.nome docker_id
+
+terraform import docker_container.nginx 9219b53144a675284aaff065ccad37a70643ed701f38cdccdd937110e6b37533
